@@ -14,3 +14,14 @@ A
 index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
 9
 	.htaccess,f\1\f14dd8fe84b7e99eb63debbf029152463832e7ad
+:
+
+swish.html,e\f\efb848825e37c58feba9cf2b58af0ff716674dbb
+8
+404.html,1\2\12bf52c5b60772bbf201ffb05d6bb178c1bf9a28
+<
+kontakt.html,c\f\cfc932bfa7d6ad4cd06e0fde137fee0aa05a2115
+=
+category.html,3\2\323827b97a37e24533c5982ff0d4c887de729dab
+9
+	blog.html,3\4\34a304115008eb163915f4d200c10b6301f30e80
