@@ -586,14 +586,7 @@ header p {
     gap: 2rem;
   }
 
-  .footer_1 {
-    width: var(--container-width-phone);
-  }
 
-  .footer_1 p {
-    width: var(--container-width-phone);
-    margin: 0 auto 3rem;
-  }
 
   .footer_subscribe {
     display: none;
